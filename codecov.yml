@@ -27,6 +27,6 @@ comment:
   require_changes: no
 
 ignore:
-  - "**/*.pb.go"
-  - "**/*.y.go"
-  - "**/*.md"
+- "**/*.pb.go"
+- "**/*.y.go"
+- "**/*.md"
